@@ -47,14 +47,23 @@ function render() {
   list.forEach(function (b) {
     const card = document.createElement('article');
     card.className = 'card';
+    card.setAttribute('role', 'listitem');
+    card.tabIndex = 0;
+    card.setAttribute('aria-label', b.name + ', wielkość ' + b.size + ', aktywność ' + b.activity);
     card.innerHTML =
-      '<img src="' + b.image + '" alt="' + b.name + '">' +
+      '<img src="' + b.image + '" alt="">' +
       '<div class="card-body">' +
         '<h3>' + b.name + '</h3>' +
         '<span class="badge">' + b.size + '</span> ' +
         '<span class="badge badge-activity">' + b.activity + '</span>' +
       '</div>';
     card.addEventListener('click', function () { openModal(b); });
+    card.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        openModal(b);
+      }
+    });
     grid.appendChild(card);
   });
 
