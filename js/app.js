@@ -1,12 +1,5 @@
 let breeds = [];
-
-const grid = document.getElementById('grid');
-const searchInput = document.getElementById('search');
-const countEl = document.getElementById('count');
-const emptyEl = document.getElementById('empty');
-
-const modal = document.getElementById('modal');
-const modalImg = document.getElementById('modal-img');
+let grid, searchInput, countEl, emptyEl, modal, modalImg;
 
 async function loadBreeds() {
   try {
@@ -86,16 +79,31 @@ function closeModal() {
   modal.hidden = true;
 }
 
-searchInput.addEventListener('input', render);
-document.querySelectorAll('input[name="size"], input[name="activity"]').forEach(function (el) {
-  el.addEventListener('change', render);
-});
-document.getElementById('modal-close').addEventListener('click', closeModal);
-modal.addEventListener('click', function (e) {
-  if (e.target === modal) closeModal();
-});
-document.addEventListener('keydown', function (e) {
-  if (e.key === 'Escape') closeModal();
-});
+function init() {
+  grid = document.getElementById('grid');
+  searchInput = document.getElementById('search');
+  countEl = document.getElementById('count');
+  emptyEl = document.getElementById('empty');
+  modal = document.getElementById('modal');
+  modalImg = document.getElementById('modal-img');
 
-loadBreeds();
+  searchInput.addEventListener('input', render);
+  document.querySelectorAll('input[name="size"], input[name="activity"]').forEach(function (el) {
+    el.addEventListener('change', render);
+  });
+  document.getElementById('modal-close').addEventListener('click', closeModal);
+  modal.addEventListener('click', function (e) {
+    if (e.target === modal) closeModal();
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeModal();
+  });
+
+  loadBreeds();
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', init);
+} else {
+  init();
+}
