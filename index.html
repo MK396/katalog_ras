@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Katalog ras psów</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <span class="logo">Katalog ras psów</span>
+      <nav>
+        <a href="#katalog">Katalog</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <img id="hero-img" class="hero-img" src="images/husky.jpg" alt="Husky - banner główny">
+    <div class="hero-overlay">
+      <h1>Poznaj rasy psów</h1>
+      <p>Przeglądaj, filtruj i odkrywaj swojego idealnego towarzysza.</p>
+      <a href="#katalog" class="btn">Przeglądaj katalog</a>
+    </div>
+  </section>
+
+  <main id="katalog" class="container">
+    <div class="filters">
+      <input id="search" type="text" placeholder="Szukaj rasy...">
+      <span id="count" class="count"></span>
+    </div>
+    <div class="filter-groups">
+      <fieldset class="filter-group">
+        <legend>Wielkość</legend>
+        <label><input type="checkbox" name="size" value="mała"> Mała</label>
+        <label><input type="checkbox" name="size" value="średnia"> Średnia</label>
+        <label><input type="checkbox" name="size" value="duża"> Duża</label>
+      </fieldset>
+      <fieldset class="filter-group">
+        <legend>Poziom aktywności</legend>
+        <label><input type="checkbox" name="activity" value="niski"> Niski</label>
+        <label><input type="checkbox" name="activity" value="średni"> Średni</label>
+        <label><input type="checkbox" name="activity" value="wysoki"> Wysoki</label>
+      </fieldset>
+    </div>
+
+    <div id="grid" class="grid"></div>
+    <p id="empty" class="empty" hidden>Brak ras spełniających kryteria.</p>
+  </main>
+
+  <div id="modal" class="modal" hidden>
+    <div class="modal-content">
+      <button id="modal-close" class="modal-close" aria-label="Zamknij">&times;</button>
+      <img id="modal-img" class="modal-img" src="" alt="">
+      <div class="modal-body">
+        <h2 id="modal-name"></h2>
+        <p id="modal-desc"></p>
+        <ul class="details">
+          <li><strong>Wielkość:</strong> <span id="modal-size"></span></li>
+          <li><strong>Aktywność:</strong> <span id="modal-activity"></span></li>
+          <li><strong>Pochodzenie:</strong> <span id="modal-origin"></span></li>
+          <li><strong>Waga:</strong> <span id="modal-weight"></span></li>
+          <li><strong>Długość życia:</strong> <span id="modal-lifespan"></span></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/breeds-data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
