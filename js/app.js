@@ -51,7 +51,8 @@ function createCard(b) {
   const img = document.createElement('img');
   img.src = b.image;
   img.alt = b.name;
-  // Optymalizacja (później): loading="lazy" na kartach; hero i modal bez lazy.
+  img.loading = 'lazy';
+  img.decoding = 'async';
 
   const body = document.createElement('div');
   body.className = 'card-body';
