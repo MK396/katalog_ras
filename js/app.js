@@ -1,5 +1,6 @@
 let breeds = [];
-let grid, searchInput, countEl, emptyEl, modal, modalImg;
+let grid, searchInput, countEl, emptyEl, modal, modalImg, modalClose;
+let lastFocusedBeforeModal = null;
 
 async function loadBreeds() {
   try {
@@ -9,13 +10,13 @@ async function loadBreeds() {
     }
     breeds = await response.json();
   } catch (err) {
-    // Fallback gdy strona jest otwarta jako plik (file://) bez lokalnego serwera
     breeds = window.BREEDS_DATA || [];
   }
   if (!breeds.length) {
     countEl.textContent = 'Błąd ładowania danych';
     emptyEl.hidden = false;
-    emptyEl.textContent = 'Nie udało się wczytać katalogu. Uruchom lokalny serwer (np. Live Server) albo odśwież stronę.';
+    emptyEl.textContent =
+      'Nie udało się wczytać katalogu. Uruchom lokalny serwer (np. Live Server) albo odśwież stronę.';
     return;
   }
   render();
@@ -34,37 +35,65 @@ function getFiltered() {
 
   return breeds.filter(function (b) {
     const matchesName = b.name.toLowerCase().includes(query);
-    const matchesSize = sizes.length === 0 || sizes.indexOf(b.size) !== -1;
-    const matchesActivity = activities.length === 0 || activities.indexOf(b.activity) !== -1;
+    const matchesSize = sizes.length === 0 || sizes.includes(b.size);
+    const matchesActivity = activities.length === 0 || activities.includes(b.activity);
     return matchesName && matchesSize && matchesActivity;
   });
 }
 
+function createCard(b) {
+  const card = document.createElement('article');
+  card.className = 'card';
+  card.setAttribute('role', 'listitem');
+  card.tabIndex = 0;
+  card.setAttribute('aria-label', b.name + ', wielkość ' + b.size + ', aktywność ' + b.activity);
+
+  const img = document.createElement('img');
+  img.src = b.image;
+  img.alt = b.name;
+  // Optymalizacja (później): loading="lazy" na kartach; hero i modal bez lazy.
+
+  const body = document.createElement('div');
+  body.className = 'card-body';
+
+  const title = document.createElement('h3');
+  title.textContent = b.name;
+
+  const badgeSize = document.createElement('span');
+  badgeSize.className = 'badge';
+  badgeSize.textContent = b.size;
+
+  const badgeActivity = document.createElement('span');
+  badgeActivity.className = 'badge badge-activity';
+  badgeActivity.textContent = b.activity;
+
+  body.appendChild(title);
+  body.appendChild(badgeSize);
+  body.appendChild(badgeActivity);
+
+  card.appendChild(img);
+  card.appendChild(body);
+
+  function activate() {
+    openModal(b);
+  }
+  card.addEventListener('click', activate);
+  card.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      activate();
+    }
+  });
+
+  return card;
+}
+
 function render() {
   const list = getFiltered();
-  grid.innerHTML = '';
+  grid.replaceChildren();
 
   list.forEach(function (b) {
-    const card = document.createElement('article');
-    card.className = 'card';
-    card.setAttribute('role', 'listitem');
-    card.tabIndex = 0;
-    card.setAttribute('aria-label', b.name + ', wielkość ' + b.size + ', aktywność ' + b.activity);
-    card.innerHTML =
-      '<img src="' + b.image + '" alt="">' +
-      '<div class="card-body">' +
-        '<h3>' + b.name + '</h3>' +
-        '<span class="badge">' + b.size + '</span> ' +
-        '<span class="badge badge-activity">' + b.activity + '</span>' +
-      '</div>';
-    card.addEventListener('click', function () { openModal(b); });
-    card.addEventListener('keydown', function (e) {
-      if (e.key === 'Enter' || e.key === ' ') {
-        e.preventDefault();
-        openModal(b);
-      }
-    });
-    grid.appendChild(card);
+    grid.appendChild(createCard(b));
   });
 
   countEl.textContent = 'Znaleziono: ' + list.length;
@@ -72,6 +101,9 @@ function render() {
 }
 
 function openModal(b) {
+  if (modal.hidden) {
+    lastFocusedBeforeModal = document.activeElement;
+  }
   modalImg.src = b.image;
   modalImg.alt = b.name;
   document.getElementById('modal-name').textContent = b.name;
@@ -82,10 +114,22 @@ function openModal(b) {
   document.getElementById('modal-weight').textContent = b.weight;
   document.getElementById('modal-lifespan').textContent = b.lifespan;
   modal.hidden = false;
+  document.body.classList.add('modal-open');
+  modalClose.focus();
 }
 
 function closeModal() {
+  if (modal.hidden) {
+    return;
+  }
   modal.hidden = true;
+  document.body.classList.remove('modal-open');
+  modalImg.removeAttribute('src');
+  modalImg.alt = '';
+  if (lastFocusedBeforeModal && typeof lastFocusedBeforeModal.focus === 'function') {
+    lastFocusedBeforeModal.focus();
+  }
+  lastFocusedBeforeModal = null;
 }
 
 function init() {
@@ -95,17 +139,22 @@ function init() {
   emptyEl = document.getElementById('empty');
   modal = document.getElementById('modal');
   modalImg = document.getElementById('modal-img');
+  modalClose = document.getElementById('modal-close');
 
   searchInput.addEventListener('input', render);
   document.querySelectorAll('input[name="size"], input[name="activity"]').forEach(function (el) {
     el.addEventListener('change', render);
   });
-  document.getElementById('modal-close').addEventListener('click', closeModal);
+  modalClose.addEventListener('click', closeModal);
   modal.addEventListener('click', function (e) {
-    if (e.target === modal) closeModal();
+    if (e.target === modal) {
+      closeModal();
+    }
   });
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') closeModal();
+    if (e.key === 'Escape' && !modal.hidden) {
+      closeModal();
+    }
   });
 
   loadBreeds();
