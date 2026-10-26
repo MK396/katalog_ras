@@ -7,7 +7,7 @@
     "lifespan": "12–14 lat",
     "weight": "3–4 kg",
     "description": "Mały pies o małpiej minie i zadziornym charakterze. Odważny, ciekawski i zabawny.",
-    "image": "images/affenpinscher.jpg",
+    "image": "images/affenpinscher.webp",
     "activity": "średni"
   },
   {
@@ -18,7 +18,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (african/wild).",
-    "image": "images/african-wild.jpg",
+    "image": "images/african-wild.webp",
     "activity": "wysoki"
   },
   {
@@ -29,7 +29,7 @@
     "lifespan": "10–13 lat",
     "weight": "20–30 kg",
     "description": "Największy z terierów, nazywany królem terierów. Inteligentny, pewny siebie i energiczny.",
-    "image": "images/airedale.jpg",
+    "image": "images/airedale.webp",
     "activity": "wysoki"
   },
   {
@@ -40,7 +40,7 @@
     "lifespan": "10–13 lat",
     "weight": "32–59 kg",
     "description": "Dostojny japoński pies o wielkiej lojalności. Opanowany, stanowczy i zdystansowany wobec obcych.",
-    "image": "images/akita.jpg",
+    "image": "images/akita.webp",
     "activity": "średni"
   },
   {
@@ -51,7 +51,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (appenzeller).",
-    "image": "images/appenzeller.jpg",
+    "image": "images/appenzeller.webp",
     "activity": "wysoki"
   },
   {
@@ -62,7 +62,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (australian/kelpie).",
-    "image": "images/australian-kelpie.jpg",
+    "image": "images/australian-kelpie.webp",
     "activity": "wysoki"
   },
   {
@@ -73,7 +73,7 @@
     "lifespan": "12–15 lat",
     "weight": "16–32 kg",
     "description": "Zwinny pies pasterski o różnobarwnej sierści. Bardzo inteligentny i wymagający intensywnej aktywności.",
-    "image": "images/australian-shepherd.jpg",
+    "image": "images/australian-shepherd.webp",
     "activity": "wysoki"
   },
   {
@@ -84,7 +84,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (bakharwal/indian).",
-    "image": "images/bakharwal-indian.jpg",
+    "image": "images/bakharwal-indian.webp",
     "activity": "średni"
   },
   {
@@ -95,7 +95,7 @@
     "lifespan": "13–14 lat",
     "weight": "9–11 kg",
     "description": "Pies, który nie szczeka, lecz wydaje dźwięki przypominające jodłowanie. Niezależny i czysty.",
-    "image": "images/basenji.jpg",
+    "image": "images/basenji.webp",
     "activity": "średni"
   },
   {
@@ -106,7 +106,7 @@
     "lifespan": "12–15 lat",
     "weight": "9–11 kg",
     "description": "Wesoły pies gończy o znakomitym węchu. Ciekawski, towarzyski i uparty, lubi długie spacery.",
-    "image": "images/beagle.jpg",
+    "image": "images/beagle.webp",
     "activity": "średni"
   },
   {
@@ -117,7 +117,7 @@
     "lifespan": "11–12 lat",
     "weight": "20–36 kg",
     "description": "Pies gończy o niebieskawo nakrapianej sierści. Wytrwały tropiciel o donośnym głosie.",
-    "image": "images/bluetick.jpg",
+    "image": "images/bluetick.webp",
     "activity": "wysoki"
   },
   {
@@ -128,7 +128,7 @@
     "lifespan": "9–14 lat",
     "weight": "25–48 kg",
     "description": "Wysoki, smukły chart o długiej sierści. Spokojny, delikatny i zwinny w pościgu.",
-    "image": "images/borzoi.jpg",
+    "image": "images/borzoi.webp",
     "activity": "wysoki"
   },
   {
@@ -139,7 +139,7 @@
     "lifespan": "10–12 lat",
     "weight": "27–40 kg",
     "description": "Silny pies pasterski o szorstkiej sierści. Spokojny, opiekuńczy i czujny.",
-    "image": "images/bouvier.jpg",
+    "image": "images/bouvier.webp",
     "activity": "niski"
   },
   {
@@ -150,7 +150,7 @@
     "lifespan": "10–12 lat",
     "weight": "25–32 kg",
     "description": "Energiczny i zabawowy pies o muskularnej sylwetce. Wobec dzieci jest cierpliwy, a wobec obcych czujny.",
-    "image": "images/boxer.jpg",
+    "image": "images/boxer.webp",
     "activity": "wysoki"
   },
   {
@@ -161,7 +161,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (brabancon).",
-    "image": "images/brabancon.jpg",
+    "image": "images/brabancon.webp",
     "activity": "średni"
   },
   {
@@ -172,7 +172,7 @@
     "lifespan": "10–12 lat",
     "weight": "27–40 kg",
     "description": "Francuski pies pasterski o długiej, falistej sierści. Lojalny, odważny i opiekuńczy.",
-    "image": "images/briard.jpg",
+    "image": "images/briard.webp",
     "activity": "średni"
   },
   {
@@ -183,7 +183,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (buhund/norwegian).",
-    "image": "images/buhund-norwegian.jpg",
+    "image": "images/buhund-norwegian.webp",
     "activity": "wysoki"
   },
   {
@@ -194,7 +194,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (bulldog/boston).",
-    "image": "images/bulldog-boston.jpg",
+    "image": "images/bulldog-boston.webp",
     "activity": "niski"
   },
   {
@@ -205,7 +205,7 @@
     "lifespan": "8–10 lat",
     "weight": "23–25 kg",
     "description": "Masywny, spokojny pies o pomarszczonym pysku. Łagodny, uparty i lubiący towarzystwo ludzi.",
-    "image": "images/bulldog-english.jpg",
+    "image": "images/bulldog-english.webp",
     "activity": "niski"
   },
   {
@@ -216,7 +216,7 @@
     "lifespan": "10–12 lat",
     "weight": "8–14 kg",
     "description": "Kompaktowy pies towarzyszący z charakterystycznymi stojącymi uszami. Wesoły, przywiązany i mało wymagający ruchowo.",
-    "image": "images/bulldog-french.jpg",
+    "image": "images/bulldog-french.webp",
     "activity": "niski"
   },
   {
@@ -227,7 +227,7 @@
     "lifespan": "12–14 lat",
     "weight": "11–17 kg",
     "description": "Zwarty, muskularny pies o wielkim sercu do ludzi. Odważny, wytrwały i przyjazny.",
-    "image": "images/bullterrier-staffordshire.jpg",
+    "image": "images/bullterrier-staffordshire.webp",
     "activity": "średni"
   },
   {
@@ -238,7 +238,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (cattledog/australian).",
-    "image": "images/cattledog-australian.jpg",
+    "image": "images/cattledog-australian.webp",
     "activity": "wysoki"
   },
   {
@@ -249,7 +249,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (cavapoo).",
-    "image": "images/cavapoo.jpg",
+    "image": "images/cavapoo.webp",
     "activity": "średni"
   },
   {
@@ -260,7 +260,7 @@
     "lifespan": "14–16 lat",
     "weight": "1,5–3 kg",
     "description": "Najmniejsza rasa psów na świecie. Odważna, żywa i silnie związana z właścicielem.",
-    "image": "images/chihuahua.jpg",
+    "image": "images/chihuahua.webp",
     "activity": "niski"
   },
   {
@@ -271,7 +271,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (chippiparai/indian).",
-    "image": "images/chippiparai-indian.jpg",
+    "image": "images/chippiparai-indian.webp",
     "activity": "średni"
   },
   {
@@ -282,7 +282,7 @@
     "lifespan": "9–15 lat",
     "weight": "20–32 kg",
     "description": "Pies o lwiej grzywie i niebieskim języku. Dostojny, zdystansowany i lojalny wobec jednej osoby.",
-    "image": "images/chow.jpg",
+    "image": "images/chow.webp",
     "activity": "niski"
   },
   {
@@ -293,7 +293,7 @@
     "lifespan": "10–12 lat",
     "weight": "25–34 kg",
     "description": "Najcięższy z spanieli, o spokojnym usposobieniu. Łagodny i cierpliwy pies myśliwski.",
-    "image": "images/clumber.jpg",
+    "image": "images/clumber.webp",
     "activity": "niski"
   },
   {
@@ -304,7 +304,7 @@
     "lifespan": "14–18 lat",
     "weight": "5–12 kg",
     "description": "Mieszaniec cocker spaniela i pudla. Przyjazny, inteligentny i słabo linieje.",
-    "image": "images/cockapoo.jpg",
+    "image": "images/cockapoo.webp",
     "activity": "średni"
   },
   {
@@ -315,7 +315,7 @@
     "lifespan": "12–15 lat",
     "weight": "14–20 kg",
     "description": "Uznawany za najinteligentniejszą rasę psów. Doskonały pasterz o ogromnej potrzebie aktywności fizycznej i umysłowej.",
-    "image": "images/collie-border.jpg",
+    "image": "images/collie-border.webp",
     "activity": "wysoki"
   },
   {
@@ -326,7 +326,7 @@
     "lifespan": "10–12 lat",
     "weight": "20–32 kg",
     "description": "Amerykański pies gończy do tropienia szopów. Wytrzymały, towarzyski i głośny.",
-    "image": "images/coonhound.jpg",
+    "image": "images/coonhound.webp",
     "activity": "wysoki"
   },
   {
@@ -337,7 +337,7 @@
     "lifespan": "12–15 lat",
     "weight": "11–17 kg",
     "description": "Niski, krępy pies pasterski o lisim pyszczku. Czujny, inteligentny i przywiązany do opiekuna.",
-    "image": "images/corgi-cardigan.jpg",
+    "image": "images/corgi-cardigan.webp",
     "activity": "wysoki"
   },
   {
@@ -348,7 +348,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (cotondetulear).",
-    "image": "images/cotondetulear.jpg",
+    "image": "images/cotondetulear.webp",
     "activity": "niski"
   },
   {
@@ -359,7 +359,7 @@
     "lifespan": "12–16 lat",
     "weight": "7–15 kg",
     "description": "Pies norowy o długim ciele i krótkich łapach. Odważny, uparty i bardzo ciekawski.",
-    "image": "images/dachshund.jpg",
+    "image": "images/dachshund.webp",
     "activity": "średni"
   },
   {
@@ -370,7 +370,7 @@
     "lifespan": "11–13 lat",
     "weight": "16–32 kg",
     "description": "Biały pies w czarne łatki, dawniej towarzysz powozów. Wytrzymały, żywy i lubiący ruch.",
-    "image": "images/dalmatian.jpg",
+    "image": "images/dalmatian.webp",
     "activity": "wysoki"
   },
   {
@@ -381,7 +381,7 @@
     "lifespan": "7–10 lat",
     "weight": "45–90 kg",
     "description": "Jedna z najwyższych ras psów. Mimo imponujących rozmiarów to łagodny i przyjacielski olbrzym.",
-    "image": "images/dane-great.jpg",
+    "image": "images/dane-great.webp",
     "activity": "niski"
   },
   {
@@ -392,7 +392,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (danishswedish/farmdog).",
-    "image": "images/danishswedish-farmdog.jpg",
+    "image": "images/danishswedish-farmdog.webp",
     "activity": "średni"
   },
   {
@@ -403,7 +403,7 @@
     "lifespan": "8–11 lat",
     "weight": "34–50 kg",
     "description": "Duży chart o szorstkiej sierści, polujący na jelenie. Łagodny, dostojny i cichy.",
-    "image": "images/deerhound-scottish.jpg",
+    "image": "images/deerhound-scottish.webp",
     "activity": "wysoki"
   },
   {
@@ -414,7 +414,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (dhole).",
-    "image": "images/dhole.jpg",
+    "image": "images/dhole.webp",
     "activity": "wysoki"
   },
   {
@@ -425,7 +425,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (dingo).",
-    "image": "images/dingo.jpg",
+    "image": "images/dingo.webp",
     "activity": "wysoki"
   },
   {
@@ -436,7 +436,7 @@
     "lifespan": "10–12 lat",
     "weight": "27–45 kg",
     "description": "Szybki, elegancki i czujny pies stróżujący. Bardzo inteligentny i silnie związany z rodziną.",
-    "image": "images/doberman.jpg",
+    "image": "images/doberman.webp",
     "activity": "wysoki"
   },
   {
@@ -447,7 +447,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (elkhound/norwegian).",
-    "image": "images/elkhound-norwegian.jpg",
+    "image": "images/elkhound-norwegian.webp",
     "activity": "wysoki"
   },
   {
@@ -458,7 +458,7 @@
     "lifespan": "11–13 lat",
     "weight": "20–30 kg",
     "description": "Najmniejszy ze szwajcarskich psów pasterskich. Żywy, zwinny i bardzo lojalny.",
-    "image": "images/entlebucher.jpg",
+    "image": "images/entlebucher.webp",
     "activity": "wysoki"
   },
   {
@@ -469,7 +469,7 @@
     "lifespan": "13–15 lat",
     "weight": "8–15 kg",
     "description": "Biały pies typu szpic o puszystej sierści. Bystry, żywy i łatwy w szkoleniu.",
-    "image": "images/eskimo.jpg",
+    "image": "images/eskimo.webp",
     "activity": "średni"
   },
   {
@@ -480,7 +480,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (finnish/lapphund).",
-    "image": "images/finnish-lapphund.jpg",
+    "image": "images/finnish-lapphund.webp",
     "activity": "wysoki"
   },
   {
@@ -491,7 +491,7 @@
     "lifespan": "14–15 lat",
     "weight": "5–8 kg",
     "description": "Mały biały pies o kędzierzawej sierści. Wesoły, towarzyski i dobry dla alergików.",
-    "image": "images/frise-bichon.jpg",
+    "image": "images/frise-bichon.webp",
     "activity": "średni"
   },
   {
@@ -502,7 +502,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (gaddi/indian).",
-    "image": "images/gaddi-indian.jpg",
+    "image": "images/gaddi-indian.webp",
     "activity": "średni"
   },
   {
@@ -513,7 +513,7 @@
     "lifespan": "9–13 lat",
     "weight": "22–40 kg",
     "description": "Wszechstronny pies służbowy i rodzinny. Inteligentny, odważny i bardzo lojalny wobec przewodnika.",
-    "image": "images/german-shepherd.jpg",
+    "image": "images/german-shepherd.webp",
     "activity": "wysoki"
   },
   {
@@ -524,7 +524,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (greyhound/indian).",
-    "image": "images/greyhound-indian.jpg",
+    "image": "images/greyhound-indian.webp",
     "activity": "wysoki"
   },
   {
@@ -535,7 +535,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (greyhound/italian).",
-    "image": "images/greyhound-italian.jpg",
+    "image": "images/greyhound-italian.webp",
     "activity": "wysoki"
   },
   {
@@ -546,7 +546,7 @@
     "lifespan": "12–14 lat",
     "weight": "20–30 kg",
     "description": "Czarny owczarek o długiej sierści. Inteligentny, czujny i bardzo pracowity.",
-    "image": "images/groenendael.jpg",
+    "image": "images/groenendael.webp",
     "activity": "wysoki"
   },
   {
@@ -557,7 +557,7 @@
     "lifespan": "14–16 lat",
     "weight": "3–6 kg",
     "description": "Mały pies towarzyszący o jedwabistej sierści. Wesoły, towarzyski i łatwy w prowadzeniu.",
-    "image": "images/havanese.jpg",
+    "image": "images/havanese.webp",
     "activity": "niski"
   },
   {
@@ -568,7 +568,7 @@
     "lifespan": "12–14 lat",
     "weight": "20–27 kg",
     "description": "Elegancki chart o długiej, jedwabistej sierści. Dumny, niezależny i bardzo szybki.",
-    "image": "images/hound-afghan.jpg",
+    "image": "images/hound-afghan.webp",
     "activity": "wysoki"
   },
   {
@@ -579,7 +579,7 @@
     "lifespan": "10–12 lat",
     "weight": "20–30 kg",
     "description": "Niski pies gończy z długimi uszami i doskonałym węchem. Spokojny, uparty i przyjazny.",
-    "image": "images/hound-basset.jpg",
+    "image": "images/hound-basset.webp",
     "activity": "niski"
   },
   {
@@ -590,7 +590,7 @@
     "lifespan": "7–10 lat",
     "weight": "36–50 kg",
     "description": "Pies o legendarnym węchu, używany do tropienia. Łagodny, uparty i wytrwały.",
-    "image": "images/hound-blood.jpg",
+    "image": "images/hound-blood.webp",
     "activity": "niski"
   },
   {
@@ -601,7 +601,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (hound/english).",
-    "image": "images/hound-english.jpg",
+    "image": "images/hound-english.webp",
     "activity": "średni"
   },
   {
@@ -612,7 +612,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (hound/ibizan).",
-    "image": "images/hound-ibizan.jpg",
+    "image": "images/hound-ibizan.webp",
     "activity": "średni"
   },
   {
@@ -623,7 +623,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (hound/plott).",
-    "image": "images/hound-plott.jpg",
+    "image": "images/hound-plott.webp",
     "activity": "wysoki"
   },
   {
@@ -634,7 +634,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (hound/walker).",
-    "image": "images/hound-walker.jpg",
+    "image": "images/hound-walker.webp",
     "activity": "wysoki"
   },
   {
@@ -645,7 +645,7 @@
     "lifespan": "12–14 lat",
     "weight": "16–27 kg",
     "description": "Wytrzymały pies zaprzęgowy o charakterystycznych niebieskich oczach. Energiczny, przyjazny i niezależny. Wymaga dużo ruchu.",
-    "image": "images/husky.jpg",
+    "image": "images/husky.webp",
     "activity": "wysoki"
   },
   {
@@ -656,7 +656,7 @@
     "lifespan": "12–15 lat",
     "weight": "16–20 kg",
     "description": "Szpic wilczy z charakterystycznymi „okularami” wokół oczu. Przyjacielski i czujny.",
-    "image": "images/keeshond.jpg",
+    "image": "images/keeshond.webp",
     "activity": "średni"
   },
   {
@@ -667,7 +667,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (kelpie).",
-    "image": "images/kelpie.jpg",
+    "image": "images/kelpie.webp",
     "activity": "wysoki"
   },
   {
@@ -678,7 +678,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (kombai).",
-    "image": "images/kombai.jpg",
+    "image": "images/kombai.webp",
     "activity": "średni"
   },
   {
@@ -689,7 +689,7 @@
     "lifespan": "10–12 lat",
     "weight": "40–60 kg",
     "description": "Pies stróżujący o sierści zbitej w sznury. Niezależny, odważny i oddany stadu.",
-    "image": "images/komondor.jpg",
+    "image": "images/komondor.webp",
     "activity": "niski"
   },
   {
@@ -700,7 +700,7 @@
     "lifespan": "10–12 lat",
     "weight": "30–52 kg",
     "description": "Biały pies stróżujący i pasterski. Samodzielny, ochronny i lojalny.",
-    "image": "images/kuvasz.jpg",
+    "image": "images/kuvasz.webp",
     "activity": "niski"
   },
   {
@@ -711,7 +711,7 @@
     "lifespan": "12–14 lat",
     "weight": "15–30 kg",
     "description": "Mieszaniec labradora i pudla. Przyjazny, inteligentny i mało linieje.",
-    "image": "images/labradoodle.jpg",
+    "image": "images/labradoodle.webp",
     "activity": "średni"
   },
   {
@@ -722,7 +722,7 @@
     "lifespan": "10–12 lat",
     "weight": "25–36 kg",
     "description": "Jedna z najpopularniejszych ras na świecie. Łagodny, inteligentny i chętny do nauki – świetny pies rodzinny i przewodnik.",
-    "image": "images/labrador.jpg",
+    "image": "images/labrador.webp",
     "activity": "wysoki"
   },
   {
@@ -733,7 +733,7 @@
     "lifespan": "8–9 lat",
     "weight": "40–70 kg",
     "description": "Olbrzymi pies o lwiej grzywie. Łagodny, cierpliwy i świetny do towarzystwa dzieci.",
-    "image": "images/leonberg.jpg",
+    "image": "images/leonberg.webp",
     "activity": "niski"
   },
   {
@@ -744,7 +744,7 @@
     "lifespan": "12–15 lat",
     "weight": "5–8 kg",
     "description": "Mały tybetański pies o długiej sierści. Czujny, pewny siebie i uparty.",
-    "image": "images/lhasa.jpg",
+    "image": "images/lhasa.webp",
     "activity": "niski"
   },
   {
@@ -755,7 +755,7 @@
     "lifespan": "10–14 lat",
     "weight": "34–38 kg",
     "description": "Potężny pies zaprzęgowy stworzony do ciągnięcia ciężkich ładunków. Przyjazny, silny i wytrwały.",
-    "image": "images/malamute.jpg",
+    "image": "images/malamute.webp",
     "activity": "wysoki"
   },
   {
@@ -766,7 +766,7 @@
     "lifespan": "14–16 lat",
     "weight": "20–30 kg",
     "description": "Szybki, wytrzymały pies służbowy. Bardzo pracowity i wymagający dużo aktywności.",
-    "image": "images/malinois.jpg",
+    "image": "images/malinois.webp",
     "activity": "wysoki"
   },
   {
@@ -777,7 +777,7 @@
     "lifespan": "12–15 lat",
     "weight": "2–4 kg",
     "description": "Drobny pies ozdobny o długiej, białej sierści. Czuły, zabawowy i dobrze czujący się w mieszkaniu.",
-    "image": "images/maltese.jpg",
+    "image": "images/maltese.webp",
     "activity": "niski"
   },
   {
@@ -788,7 +788,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (mastiff/bull).",
-    "image": "images/mastiff-bull.jpg",
+    "image": "images/mastiff-bull.webp",
     "activity": "niski"
   },
   {
@@ -799,7 +799,7 @@
     "lifespan": "6–10 lat",
     "weight": "70–110 kg",
     "description": "Jedna z największych ras. Spokojny, opiekuńczy i dostojny stróż.",
-    "image": "images/mastiff-english.jpg",
+    "image": "images/mastiff-english.webp",
     "activity": "niski"
   },
   {
@@ -810,7 +810,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (mastiff/indian).",
-    "image": "images/mastiff-indian.jpg",
+    "image": "images/mastiff-indian.webp",
     "activity": "niski"
   },
   {
@@ -821,7 +821,7 @@
     "lifespan": "10–12 lat",
     "weight": "45–72 kg",
     "description": "Potężny pies stróżujący z gęstą sierścią. Niezależny, poważny i ochronny.",
-    "image": "images/mastiff-tibetan.jpg",
+    "image": "images/mastiff-tibetan.webp",
     "activity": "niski"
   },
   {
@@ -832,7 +832,7 @@
     "lifespan": "13–18 lat",
     "weight": "7–14 kg",
     "description": "Bezwłosy pies meksykański o starożytnej historii. Spokojny, lojalny i czujny.",
-    "image": "images/mexicanhairless.jpg",
+    "image": "images/mexicanhairless.webp",
     "activity": "niski"
   },
   {
@@ -843,7 +843,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (mix).",
-    "image": "images/mix.jpg",
+    "image": "images/mix.webp",
     "activity": "średni"
   },
   {
@@ -854,7 +854,7 @@
     "lifespan": "7–10 lat",
     "weight": "35–55 kg",
     "description": "Duży, trójkolorowy pies pasterski o spokojnym usposobieniu. Dobroduszny i przywiązany do rodziny.",
-    "image": "images/mountain-bernese.jpg",
+    "image": "images/mountain-bernese.webp",
     "activity": "niski"
   },
   {
@@ -865,7 +865,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (mountain/swiss).",
-    "image": "images/mountain-swiss.jpg",
+    "image": "images/mountain-swiss.webp",
     "activity": "średni"
   },
   {
@@ -876,7 +876,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (mudhol/indian).",
-    "image": "images/mudhol-indian.jpg",
+    "image": "images/mudhol-indian.webp",
     "activity": "średni"
   },
   {
@@ -887,7 +887,7 @@
     "lifespan": "8–10 lat",
     "weight": "45–70 kg",
     "description": "Olbrzymi pies ratowniczy, świetnie pływający. Łagodny, cierpliwy i znany z opiekuńczości.",
-    "image": "images/newfoundland.jpg",
+    "image": "images/newfoundland.webp",
     "activity": "niski"
   },
   {
@@ -898,7 +898,7 @@
     "lifespan": "10–13 lat",
     "weight": "30–52 kg",
     "description": "Rzadki pies gończy, który lubi wodę. Towarzyski, wytrwały i o dobrym węchu.",
-    "image": "images/otterhound.jpg",
+    "image": "images/otterhound.webp",
     "activity": "średni"
   },
   {
@@ -909,7 +909,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (ovcharka/caucasian).",
-    "image": "images/ovcharka-caucasian.jpg",
+    "image": "images/ovcharka-caucasian.webp",
     "activity": "niski"
   },
   {
@@ -920,7 +920,7 @@
     "lifespan": "13–16 lat",
     "weight": "3–5 kg",
     "description": "Mały piesek z uszami jak skrzydła motyla. Inteligentny, żywy i chętny do nauki.",
-    "image": "images/papillon.jpg",
+    "image": "images/papillon.webp",
     "activity": "niski"
   },
   {
@@ -931,7 +931,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (pariah/indian).",
-    "image": "images/pariah-indian.jpg",
+    "image": "images/pariah-indian.webp",
     "activity": "średni"
   },
   {
@@ -942,7 +942,7 @@
     "lifespan": "12–14 lat",
     "weight": "3–6 kg",
     "description": "Dawny pies cesarskich dworów. Dumny, niezależny i oddany swojemu człowiekowi.",
-    "image": "images/pekinese.jpg",
+    "image": "images/pekinese.webp",
     "activity": "niski"
   },
   {
@@ -953,7 +953,7 @@
     "lifespan": "12–14 lat",
     "weight": "10–14 kg",
     "description": "Niski pies pasterski, ulubieniec brytyjskiej rodziny królewskiej. Żywy, bystry i wesoły.",
-    "image": "images/pembroke.jpg",
+    "image": "images/pembroke.webp",
     "activity": "wysoki"
   },
   {
@@ -964,7 +964,7 @@
     "lifespan": "12–16 lat",
     "weight": "3–5 kg",
     "description": "Mały, odważny pies o energicznym usposobieniu. Czujny, żwawy i pewny siebie.",
-    "image": "images/pinscher-miniature.jpg",
+    "image": "images/pinscher-miniature.webp",
     "activity": "wysoki"
   },
   {
@@ -975,7 +975,7 @@
     "lifespan": "12–14 lat",
     "weight": "14–27 kg",
     "description": "Silny, wytrzymały pies o wielkim przywiązaniu do ludzi. Wymaga konsekwentnego wychowania.",
-    "image": "images/pitbull.jpg",
+    "image": "images/pitbull.webp",
     "activity": "wysoki"
   },
   {
@@ -986,7 +986,7 @@
     "lifespan": "12–14 lat",
     "weight": "20–32 kg",
     "description": "Wszechstronny pies myśliwski. Wytrzymały, inteligentny i bardzo aktywny.",
-    "image": "images/pointer-german.jpg",
+    "image": "images/pointer-german.webp",
     "activity": "wysoki"
   },
   {
@@ -997,7 +997,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (pointer/germanlonghair).",
-    "image": "images/pointer-germanlonghair.jpg",
+    "image": "images/pointer-germanlonghair.webp",
     "activity": "wysoki"
   },
   {
@@ -1008,7 +1008,7 @@
     "lifespan": "12–16 lat",
     "weight": "1,9–3,5 kg",
     "description": "Mały, puszysty pies o żywym temperamencie. Pewny siebie, głośny i przywiązany do opiekuna.",
-    "image": "images/pomeranian.jpg",
+    "image": "images/pomeranian.webp",
     "activity": "niski"
   },
   {
@@ -1019,7 +1019,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (poodle/medium).",
-    "image": "images/poodle-medium.jpg",
+    "image": "images/poodle-medium.webp",
     "activity": "średni"
   },
   {
@@ -1030,7 +1030,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (poodle/miniature).",
-    "image": "images/poodle-miniature.jpg",
+    "image": "images/poodle-miniature.webp",
     "activity": "średni"
   },
   {
@@ -1041,7 +1041,7 @@
     "lifespan": "12–15 lat",
     "weight": "20–32 kg",
     "description": "Bardzo inteligentny i elegancki pies o kręconej, niepylącej sierści. Łatwy w szkoleniu, aktywny.",
-    "image": "images/poodle-standard.jpg",
+    "image": "images/poodle-standard.webp",
     "activity": "średni"
   },
   {
@@ -1052,7 +1052,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (poodle/toy).",
-    "image": "images/poodle-toy.jpg",
+    "image": "images/poodle-toy.webp",
     "activity": "średni"
   },
   {
@@ -1063,7 +1063,7 @@
     "lifespan": "12–15 lat",
     "weight": "6–8 kg",
     "description": "Mały, zabawny pies towarzyszący o charakterystycznie pomarszczonym pyszczku. Spokojny i oddany.",
-    "image": "images/pug.jpg",
+    "image": "images/pug.webp",
     "activity": "niski"
   },
   {
@@ -1074,7 +1074,7 @@
     "lifespan": "10–15 lat",
     "weight": "6–14 kg",
     "description": "Mieszaniec beagle'a i mopsa. Wesoły, towarzyski i lubiący zabawę.",
-    "image": "images/puggle.jpg",
+    "image": "images/puggle.webp",
     "activity": "niski"
   },
   {
@@ -1085,7 +1085,7 @@
     "lifespan": "10–12 lat",
     "weight": "40–60 kg",
     "description": "Duży biały pies stróżujący stad. Spokojny, opiekuńczy i niezależny.",
-    "image": "images/pyrenees.jpg",
+    "image": "images/pyrenees.webp",
     "activity": "niski"
   },
   {
@@ -1096,7 +1096,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (rajapalayam/indian).",
-    "image": "images/rajapalayam-indian.jpg",
+    "image": "images/rajapalayam-indian.webp",
     "activity": "średni"
   },
   {
@@ -1107,7 +1107,7 @@
     "lifespan": "12–14 lat",
     "weight": "20–32 kg",
     "description": "Rudy pies gończy o wielkiej wytrzymałości. Łagodny, wierny i dobrze pływa.",
-    "image": "images/redbone.jpg",
+    "image": "images/redbone.webp",
     "activity": "wysoki"
   },
   {
@@ -1118,7 +1118,7 @@
     "lifespan": "10–13 lat",
     "weight": "25–36 kg",
     "description": "Silny retriever o wodoodpornej sierści. Pracowity, lojalny i dobrze pływa.",
-    "image": "images/retriever-chesapeake.jpg",
+    "image": "images/retriever-chesapeake.webp",
     "activity": "wysoki"
   },
   {
@@ -1129,7 +1129,7 @@
     "lifespan": "8–12 lat",
     "weight": "30–36 kg",
     "description": "Retriever o gęstych, drobnych lokach. Inteligentny, niezależny i wytrzymały.",
-    "image": "images/retriever-curly.jpg",
+    "image": "images/retriever-curly.webp",
     "activity": "wysoki"
   },
   {
@@ -1140,7 +1140,7 @@
     "lifespan": "8–10 lat",
     "weight": "25–36 kg",
     "description": "Wesoły retriever o gładkiej, lśniącej sierści. Przyjazny i wiecznie młodzieńczy.",
-    "image": "images/retriever-flatcoated.jpg",
+    "image": "images/retriever-flatcoated.webp",
     "activity": "wysoki"
   },
   {
@@ -1151,7 +1151,7 @@
     "lifespan": "10–12 lat",
     "weight": "25–34 kg",
     "description": "Przyjazny, cierpliwy i lojalny pies o złotej sierści. Doskonale sprawdza się jako pies terapeutyczny i rodzinny.",
-    "image": "images/retriever-golden.jpg",
+    "image": "images/retriever-golden.webp",
     "activity": "wysoki"
   },
   {
@@ -1162,7 +1162,7 @@
     "lifespan": "10–12 lat",
     "weight": "29–41 kg",
     "description": "Pies myśliwski z charakterystycznym grzbietem sierści. Dostojny, wytrzymały i lojalny.",
-    "image": "images/ridgeback-rhodesian.jpg",
+    "image": "images/ridgeback-rhodesian.webp",
     "activity": "wysoki"
   },
   {
@@ -1173,7 +1173,7 @@
     "lifespan": "8–10 lat",
     "weight": "35–60 kg",
     "description": "Silny, pewny siebie pies obronny i pasterski. Przy właściwym wychowaniu spokojny i oddany.",
-    "image": "images/rottweiler.jpg",
+    "image": "images/rottweiler.webp",
     "activity": "niski"
   },
   {
@@ -1184,7 +1184,7 @@
     "lifespan": "12–14 lat",
     "weight": "18–30 kg",
     "description": "Elegancki pies pasterski, znany z Lassie. Łagodny, mądry i wrażliwy.",
-    "image": "images/rough-collie.jpg",
+    "image": "images/rough-collie.webp",
     "activity": "średni"
   },
   {
@@ -1195,7 +1195,7 @@
     "lifespan": "12–14 lat",
     "weight": "13–30 kg",
     "description": "Starożytny, smukły chart. Elegancki, szybki i zdystansowany.",
-    "image": "images/saluki.jpg",
+    "image": "images/saluki.webp",
     "activity": "wysoki"
   },
   {
@@ -1206,7 +1206,7 @@
     "lifespan": "12–14 lat",
     "weight": "16–30 kg",
     "description": "Biały pies o gęstej sierści i „uśmiechniętym” pysku. Towarzyski, łagodny i pełen energii.",
-    "image": "images/samoyed.jpg",
+    "image": "images/samoyed.webp",
     "activity": "średni"
   },
   {
@@ -1217,7 +1217,7 @@
     "lifespan": "13–15 lat",
     "weight": "3–9 kg",
     "description": "Mały czarny pies bez ogona, dawniej na barkach. Ciekawski, czujny i energiczny.",
-    "image": "images/schipperke.jpg",
+    "image": "images/schipperke.webp",
     "activity": "wysoki"
   },
   {
@@ -1228,7 +1228,7 @@
     "lifespan": "10–12 lat",
     "weight": "30–40 kg",
     "description": "Silny pies o brodzie i krzaczastych brwiach. Inteligentny, czujny i pracowity.",
-    "image": "images/schnauzer-giant.jpg",
+    "image": "images/schnauzer-giant.webp",
     "activity": "wysoki"
   },
   {
@@ -1239,7 +1239,7 @@
     "lifespan": "12–15 lat",
     "weight": "5–9 kg",
     "description": "Mały pies z brodą i charakterystycznymi brwiami. Żywy, towarzyski i czujny.",
-    "image": "images/schnauzer-miniature.jpg",
+    "image": "images/schnauzer-miniature.webp",
     "activity": "średni"
   },
   {
@@ -1250,7 +1250,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (segugio/italian).",
-    "image": "images/segugio-italian.jpg",
+    "image": "images/segugio-italian.webp",
     "activity": "średni"
   },
   {
@@ -1261,7 +1261,7 @@
     "lifespan": "10–12 lat",
     "weight": "20–36 kg",
     "description": "Elegancki pies myśliwski o nakrapianej sierści. Łagodny, spokojny i przyjazny.",
-    "image": "images/setter-english.jpg",
+    "image": "images/setter-english.webp",
     "activity": "wysoki"
   },
   {
@@ -1272,7 +1272,7 @@
     "lifespan": "10–12 lat",
     "weight": "20–36 kg",
     "description": "Czarno-podpalany seter o dużej wytrzymałości. Lojalny, inteligentny i odważny.",
-    "image": "images/setter-gordon.jpg",
+    "image": "images/setter-gordon.webp",
     "activity": "wysoki"
   },
   {
@@ -1283,7 +1283,7 @@
     "lifespan": "12–15 lat",
     "weight": "24–32 kg",
     "description": "Pies myśliwski o kasztanowej sierści. Radosny, towarzyski i pełen temperamentu.",
-    "image": "images/setter-irish.jpg",
+    "image": "images/setter-irish.webp",
     "activity": "wysoki"
   },
   {
@@ -1294,7 +1294,7 @@
     "lifespan": "8–12 lat",
     "weight": "16–29 kg",
     "description": "Pies z charakterystycznymi fałdami skóry. Spokojny, niezależny i lojalny.",
-    "image": "images/sharpei.jpg",
+    "image": "images/sharpei.webp",
     "activity": "niski"
   },
   {
@@ -1305,7 +1305,7 @@
     "lifespan": "10–12 lat",
     "weight": "27–45 kg",
     "description": "Puszysty pies pasterski o zmierzwionej sierści. Przyjazny, dowcipny i łagodny.",
-    "image": "images/sheepdog-english.jpg",
+    "image": "images/sheepdog-english.webp",
     "activity": "średni"
   },
   {
@@ -1316,7 +1316,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (sheepdog/indian).",
-    "image": "images/sheepdog-indian.jpg",
+    "image": "images/sheepdog-indian.webp",
     "activity": "średni"
   },
   {
@@ -1327,7 +1327,7 @@
     "lifespan": "12–14 lat",
     "weight": "6–12 kg",
     "description": "Miniaturowy pies pasterski przypominający collie. Bardzo inteligentny i wrażliwy.",
-    "image": "images/sheepdog-shetland.jpg",
+    "image": "images/sheepdog-shetland.webp",
     "activity": "wysoki"
   },
   {
@@ -1338,7 +1338,7 @@
     "lifespan": "12–15 lat",
     "weight": "8–11 kg",
     "description": "Niewielki japoński pies o lisim wyglądzie. Niezależny, czysty i z silnym charakterem.",
-    "image": "images/shiba.jpg",
+    "image": "images/shiba.webp",
     "activity": "średni"
   },
   {
@@ -1349,7 +1349,7 @@
     "lifespan": "10–16 lat",
     "weight": "4–7 kg",
     "description": "Pies towarzyszący o bujnej sierści. Przyjazny, pogodny i lubiący być w centrum uwagi.",
-    "image": "images/shihtzu.jpg",
+    "image": "images/shihtzu.webp",
     "activity": "niski"
   },
   {
@@ -1360,7 +1360,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (spaniel/blenheim).",
-    "image": "images/spaniel-blenheim.jpg",
+    "image": "images/spaniel-blenheim.webp",
     "activity": "niski"
   },
   {
@@ -1371,7 +1371,7 @@
     "lifespan": "12–14 lat",
     "weight": "14–18 kg",
     "description": "Żywy, wytrzymały pies myśliwski. Chętny do pracy, przyjazny i energiczny.",
-    "image": "images/spaniel-brittany.jpg",
+    "image": "images/spaniel-brittany.webp",
     "activity": "wysoki"
   },
   {
@@ -1382,7 +1382,7 @@
     "lifespan": "12–15 lat",
     "weight": "12–15 kg",
     "description": "Wesoły pies myśliwski o długich, zwisających uszach. Łagodny, towarzyski i chętny do współpracy.",
-    "image": "images/spaniel-cocker.jpg",
+    "image": "images/spaniel-cocker.webp",
     "activity": "średni"
   },
   {
@@ -1393,7 +1393,7 @@
     "lifespan": "10–12 lat",
     "weight": "20–30 kg",
     "description": "Największy spaniel o kręconej sierści. Świetny pływak o wesołym charakterze.",
-    "image": "images/spaniel-irish.jpg",
+    "image": "images/spaniel-irish.webp",
     "activity": "wysoki"
   },
   {
@@ -1404,7 +1404,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (spaniel/japanese).",
-    "image": "images/spaniel-japanese.jpg",
+    "image": "images/spaniel-japanese.webp",
     "activity": "niski"
   },
   {
@@ -1415,7 +1415,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (spaniel/sussex).",
-    "image": "images/spaniel-sussex.jpg",
+    "image": "images/spaniel-sussex.webp",
     "activity": "średni"
   },
   {
@@ -1426,7 +1426,7 @@
     "lifespan": "12–15 lat",
     "weight": "16–25 kg",
     "description": "Czerwono-biały pies myśliwski. Wierny, pracowity i przywiązany do rodziny.",
-    "image": "images/spaniel-welsh.jpg",
+    "image": "images/spaniel-welsh.webp",
     "activity": "wysoki"
   },
   {
@@ -1437,7 +1437,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (spitz/indian).",
-    "image": "images/spitz-indian.jpg",
+    "image": "images/spitz-indian.webp",
     "activity": "średni"
   },
   {
@@ -1448,7 +1448,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (spitz/japanese).",
-    "image": "images/spitz-japanese.jpg",
+    "image": "images/spitz-japanese.webp",
     "activity": "średni"
   },
   {
@@ -1459,7 +1459,7 @@
     "lifespan": "12–14 lat",
     "weight": "18–25 kg",
     "description": "Aktywny pies myśliwski i wystawowy. Radosny, posłuszny i bardzo energiczny.",
-    "image": "images/springer-english.jpg",
+    "image": "images/springer-english.webp",
     "activity": "wysoki"
   },
   {
@@ -1470,7 +1470,7 @@
     "lifespan": "8–10 lat",
     "weight": "55–80 kg",
     "description": "Potężny pies ratowniczy znany z akcji w Alpach. Spokojny, cierpliwy i bardzo oddany rodzinie.",
-    "image": "images/stbernard.jpg",
+    "image": "images/stbernard.webp",
     "activity": "niski"
   },
   {
@@ -1481,7 +1481,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/american).",
-    "image": "images/terrier-american.jpg",
+    "image": "images/terrier-american.webp",
     "activity": "średni"
   },
   {
@@ -1492,7 +1492,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/andalusian).",
-    "image": "images/terrier-andalusian.jpg",
+    "image": "images/terrier-andalusian.webp",
     "activity": "średni"
   },
   {
@@ -1503,7 +1503,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/australian).",
-    "image": "images/terrier-australian.jpg",
+    "image": "images/terrier-australian.webp",
     "activity": "wysoki"
   },
   {
@@ -1514,7 +1514,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/bedlington).",
-    "image": "images/terrier-bedlington.jpg",
+    "image": "images/terrier-bedlington.webp",
     "activity": "średni"
   },
   {
@@ -1525,7 +1525,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/border).",
-    "image": "images/terrier-border.jpg",
+    "image": "images/terrier-border.webp",
     "activity": "wysoki"
   },
   {
@@ -1536,7 +1536,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/boston).",
-    "image": "images/terrier-boston.jpg",
+    "image": "images/terrier-boston.webp",
     "activity": "niski"
   },
   {
@@ -1547,7 +1547,7 @@
     "lifespan": "13–15 lat",
     "weight": "6–7 kg",
     "description": "Drobny terier o szorstkiej sierści, przypominający Toto z „Czarnoksiężnika z Oz”. Wesoły i odważny.",
-    "image": "images/terrier-cairn.jpg",
+    "image": "images/terrier-cairn.webp",
     "activity": "średni"
   },
   {
@@ -1558,7 +1558,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/dandie).",
-    "image": "images/terrier-dandie.jpg",
+    "image": "images/terrier-dandie.webp",
     "activity": "średni"
   },
   {
@@ -1569,7 +1569,7 @@
     "lifespan": "12–15 lat",
     "weight": "7–8 kg",
     "description": "Żywy pies do polowań na lisy. Ciekawski, odważny i pełen energii.",
-    "image": "images/terrier-fox.jpg",
+    "image": "images/terrier-fox.webp",
     "activity": "wysoki"
   },
   {
@@ -1580,7 +1580,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/irish).",
-    "image": "images/terrier-irish.jpg",
+    "image": "images/terrier-irish.webp",
     "activity": "wysoki"
   },
   {
@@ -1591,7 +1591,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/kerryblue).",
-    "image": "images/terrier-kerryblue.jpg",
+    "image": "images/terrier-kerryblue.webp",
     "activity": "średni"
   },
   {
@@ -1602,7 +1602,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/lakeland).",
-    "image": "images/terrier-lakeland.jpg",
+    "image": "images/terrier-lakeland.webp",
     "activity": "wysoki"
   },
   {
@@ -1613,7 +1613,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/norfolk).",
-    "image": "images/terrier-norfolk.jpg",
+    "image": "images/terrier-norfolk.webp",
     "activity": "średni"
   },
   {
@@ -1624,7 +1624,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/norwich).",
-    "image": "images/terrier-norwich.jpg",
+    "image": "images/terrier-norwich.webp",
     "activity": "średni"
   },
   {
@@ -1635,7 +1635,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/patterdale).",
-    "image": "images/terrier-patterdale.jpg",
+    "image": "images/terrier-patterdale.webp",
     "activity": "wysoki"
   },
   {
@@ -1646,7 +1646,7 @@
     "lifespan": "13–16 lat",
     "weight": "5–8 kg",
     "description": "Niezwykle energiczny pies myśliwski. Bystry, uparty i wymagający dużo aktywności.",
-    "image": "images/terrier-russell.jpg",
+    "image": "images/terrier-russell.webp",
     "activity": "wysoki"
   },
   {
@@ -1657,7 +1657,7 @@
     "lifespan": "11–13 lat",
     "weight": "8–10 kg",
     "description": "Zwarty terier z brodą i wysoko noszonym ogonem. Dumny, wytrwały i niezależny.",
-    "image": "images/terrier-scottish.jpg",
+    "image": "images/terrier-scottish.webp",
     "activity": "średni"
   },
   {
@@ -1668,7 +1668,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/sealyham).",
-    "image": "images/terrier-sealyham.jpg",
+    "image": "images/terrier-sealyham.webp",
     "activity": "średni"
   },
   {
@@ -1679,7 +1679,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/silky).",
-    "image": "images/terrier-silky.jpg",
+    "image": "images/terrier-silky.webp",
     "activity": "średni"
   },
   {
@@ -1690,7 +1690,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/tibetan).",
-    "image": "images/terrier-tibetan.jpg",
+    "image": "images/terrier-tibetan.webp",
     "activity": "średni"
   },
   {
@@ -1701,7 +1701,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/toy).",
-    "image": "images/terrier-toy.jpg",
+    "image": "images/terrier-toy.webp",
     "activity": "średni"
   },
   {
@@ -1712,7 +1712,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/welsh).",
-    "image": "images/terrier-welsh.jpg",
+    "image": "images/terrier-welsh.webp",
     "activity": "wysoki"
   },
   {
@@ -1723,7 +1723,7 @@
     "lifespan": "12–16 lat",
     "weight": "6–10 kg",
     "description": "Mały biały terier o odważnym charakterze. Pewny siebie, wesoły i niezależny.",
-    "image": "images/terrier-westhighland.jpg",
+    "image": "images/terrier-westhighland.webp",
     "activity": "średni"
   },
   {
@@ -1734,7 +1734,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (terrier/wheaten).",
-    "image": "images/terrier-wheaten.jpg",
+    "image": "images/terrier-wheaten.webp",
     "activity": "średni"
   },
   {
@@ -1745,7 +1745,7 @@
     "lifespan": "13–16 lat",
     "weight": "2–3 kg",
     "description": "Drobny terier o jedwabistej sierści. Odważny, żywy i bardzo przywiązany do właściciela.",
-    "image": "images/terrier-yorkshire.jpg",
+    "image": "images/terrier-yorkshire.webp",
     "activity": "średni"
   },
   {
@@ -1756,7 +1756,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (tervuren).",
-    "image": "images/tervuren.jpg",
+    "image": "images/tervuren.webp",
     "activity": "wysoki"
   },
   {
@@ -1767,7 +1767,7 @@
     "lifespan": "12–14 lat",
     "weight": "20–30 kg",
     "description": "Rudy, smukły pies myśliwski. Czuły, bardzo aktywny i potrzebujący bliskości człowieka.",
-    "image": "images/vizsla.jpg",
+    "image": "images/vizsla.webp",
     "activity": "wysoki"
   },
   {
@@ -1778,7 +1778,7 @@
     "lifespan": "10-14 lat",
     "weight": "różna",
     "description": "Rasa z katalogu dog.ceo (waterdog/spanish).",
-    "image": "images/waterdog-spanish.jpg",
+    "image": "images/waterdog-spanish.webp",
     "activity": "wysoki"
   },
   {
@@ -1789,7 +1789,7 @@
     "lifespan": "10–13 lat",
     "weight": "25–40 kg",
     "description": "Srebrnoszary pies myśliwski. Wytrzymały, inteligentny i mocno związany z opiekunem.",
-    "image": "images/weimaraner.jpg",
+    "image": "images/weimaraner.webp",
     "activity": "wysoki"
   },
   {
@@ -1800,7 +1800,7 @@
     "lifespan": "12–15 lat",
     "weight": "9–19 kg",
     "description": "Smukły, szybki chart. W domu spokojny i delikatny, na spacerze uwielbia biegać.",
-    "image": "images/whippet.jpg",
+    "image": "images/whippet.webp",
     "activity": "wysoki"
   },
   {
@@ -1811,7 +1811,7 @@
     "lifespan": "6–8 lat",
     "weight": "40–55 kg",
     "description": "Najwyższa rasa psów na świecie. Łagodny olbrzym, spokojny i wierny.",
-    "image": "images/wolfhound-irish.jpg",
+    "image": "images/wolfhound-irish.webp",
     "activity": "wysoki"
   }
 ]

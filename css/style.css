@@ -157,10 +157,30 @@ body.modal-open {
   outline: 2px solid #2563eb;
   outline-offset: 2px;
 }
-.card img {
+.card-media {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+  background: #d1d5db;
+}
+
+.card-media-fill {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: blur(14px) saturate(1.08);
+  transform: scale(1.1);
+}
+
+.card-media-photo {
+  position: relative;
+  z-index: 1;
   width: 100%;
   height: 200px;
-  object-fit: cover;
+  object-fit: contain;
+  object-position: center;
   display: block;
 }
 .card-body { padding: 12px 14px 16px; }
@@ -212,8 +232,12 @@ body.modal-open {
 }
 .modal-img {
   width: 100%;
+  max-width: 760px;
   max-height: 460px;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
+  object-position: center;
+  background: #e5e7eb;
   display: block;
 }
 .modal-body { padding: 18px 22px 24px; }

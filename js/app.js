@@ -48,10 +48,26 @@ function createCard(b) {
   card.tabIndex = 0;
   card.setAttribute('aria-label', b.name + ', wielkość ' + b.size + ', aktywność ' + b.activity);
 
+  const media = document.createElement('div');
+  media.className = 'card-media';
+
+  const fill = document.createElement('img');
+  fill.className = 'card-media-fill';
+  fill.src = b.image;
+  fill.alt = '';
+  fill.setAttribute('aria-hidden', 'true');
+  fill.loading = 'lazy';
+  fill.decoding = 'async';
+
   const img = document.createElement('img');
+  img.className = 'card-media-photo';
   img.src = b.image;
   img.alt = b.name;
-  // Optymalizacja (później): loading="lazy" na kartach; hero i modal bez lazy.
+  img.loading = 'lazy';
+  img.decoding = 'async';
+
+  media.appendChild(fill);
+  media.appendChild(img);
 
   const body = document.createElement('div');
   body.className = 'card-body';
@@ -71,7 +87,7 @@ function createCard(b) {
   body.appendChild(badgeSize);
   body.appendChild(badgeActivity);
 
-  card.appendChild(img);
+  card.appendChild(media);
   card.appendChild(body);
 
   function activate() {
